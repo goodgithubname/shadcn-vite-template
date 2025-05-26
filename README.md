@@ -7,7 +7,8 @@ A minimal React + Vite template with [shadcn/ui](https://ui.shadcn.com/), built 
 ### 1. Clone the Template and install dependencies
 
 ```bash
-git https://github.com/goodgithubname/shadcn-vite-template.git
+git clone https://github.com/goodgithubname/shadcn-vite-template.git
+cd shadcn-vite-template
 npm install
 ```
 
